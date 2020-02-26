@@ -1,0 +1,1 @@
+Proyecto para que implementa un API RESTFULL para el panel de administracion de django
